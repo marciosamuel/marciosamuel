@@ -35,6 +35,5 @@ Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que pud
 ![Heroku](https://img.shields.io/badge/-heroku-141321?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
 
 ***
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=01E292&text_color=fff&bg_color=0D1117">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=01E292&text_color=fff&icon_color=01E292&bg_color=0D1117"></p>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=01E292&text_color=fff&bg_color=0D1117">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=01E292&text_color=fff&icon_color=01E292&bg_color=0D1117">
