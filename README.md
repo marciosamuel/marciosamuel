@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/marciosamuel/marciosamuel/blob/main/dev.gif"/>
-
 # Olá visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" src="https://github.com/marciosamuel/marciosamuel/blob/main/dev.gif"/>
 
 Sou graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
