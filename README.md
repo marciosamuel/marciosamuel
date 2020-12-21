@@ -3,15 +3,15 @@
 # Olá visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Sou graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
-
 Apaixonado por desenvolvimento web, me encontro muito feliz como aspirante a desenvolvedor front-end.
-
 Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que puder sobre as melhores práticas e tecnicas que possam me tornar um bom dev.
 
 ## Vamos nos conectar?
+
 <a href="https://www.linkedin.com/in/marciosamuel/">
     <img src="https://img.shields.io/badge/linkedin%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/>
 </a>
+
 <a href="https://www.instagram.com/marciosamuel_/">
     <img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/>
 </a>
@@ -32,8 +32,8 @@ Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que pud
 ![PostgreSql](https://img.shields.io/badge/-postgresql-141321?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
 ![git](https://img.shields.io/badge/-git-141321?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![github](https://img.shields.io/badge/-github-141321?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![Heroku](https://img.shields.io/badge/-heroku-141321?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
 
 ***
+
 <img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=01E292&text_color=fff&bg_color=0D1117">
 <img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=01E292&text_color=fff&icon_color=01E292&bg_color=0D1117">
