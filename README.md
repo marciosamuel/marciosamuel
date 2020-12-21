@@ -37,5 +37,5 @@ Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que pud
 
 ***
 
-<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=0066FE&text_color=456F85&bg_color=0D111700">
-<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=0066FE&text_color=456F85&icon_color=FE9900&bg_color=0D111700">
+<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=0066FE&text_color=5A92AD&bg_color=0D111700">
+<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=0066FE&text_color=5A92AD&icon_color=FE9900&bg_color=0D111700">
