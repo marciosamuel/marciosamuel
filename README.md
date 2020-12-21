@@ -3,7 +3,9 @@
 # Olá visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Sou graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
+
 Apaixonado por desenvolvimento web, me encontro muito feliz como aspirante a desenvolvedor front-end.
+
 Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que puder sobre as melhores práticas e tecnicas que possam me tornar um bom dev.
 
 ## Vamos nos conectar?
