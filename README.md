@@ -20,22 +20,22 @@ Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que pud
 
 ## Linguagens e tecnologias
 
-![HTML5](https://img.shields.io/badge/html%205-141321?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/css%203-141321?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
-![php](https://img.shields.io/badge/-php-141321?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
-![python](https://img.shields.io/badge/-python-141321?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![bootstrap](https://img.shields.io/badge/-bootstrap-141321?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C)
-![jquery](https://img.shields.io/badge/-jquery-141321?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
-![VueJs](https://img.shields.io/badge/-vue-141321?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D)
-![NuxtJs](https://img.shields.io/badge/-nuxt.js-141321?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=00C58E)
-![MySql](https://img.shields.io/badge/-mysql-141321?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![MariaDB](https://img.shields.io/badge/-mariadb-141321?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545)
-![PostgreSql](https://img.shields.io/badge/-postgresql-141321?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
-![git](https://img.shields.io/badge/-git-141321?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![github](https://img.shields.io/badge/-github-141321?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
+![HTML5](https://img.shields.io/badge/html%205-263238?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/css%203-263238?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-263238?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)
+![php](https://img.shields.io/badge/-php-263238?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4)
+![python](https://img.shields.io/badge/-python-263238?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![bootstrap](https://img.shields.io/badge/-bootstrap-263238?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C)
+![jquery](https://img.shields.io/badge/-jquery-263238?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
+![VueJs](https://img.shields.io/badge/-vue-263238?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=4FC08D)
+![NuxtJs](https://img.shields.io/badge/-nuxt.js-263238?style=for-the-badge&logo=nuxt.js&logoColor=white&labelColor=00C58E)
+![MySql](https://img.shields.io/badge/-mysql-263238?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
+![MariaDB](https://img.shields.io/badge/-mariadb-263238?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545)
+![PostgreSql](https://img.shields.io/badge/-postgresql-263238?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
+![git](https://img.shields.io/badge/-git-263238?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![github](https://img.shields.io/badge/-github-263238?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
 ***
 
-<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=0066FE&text_color=fff&bg_color=0D1117">
-<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=0066FE&text_color=fff&icon_color=FE9900&bg_color=0D1117">
+<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=0066FE&text_color=fff&bg_color=0D111700">
+<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=0066FE&text_color=fff&icon_color=FE9900&bg_color=0D111700">
