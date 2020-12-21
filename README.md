@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/marciosamuel/marciosamuel/blob/main/animation.gif"/>
+<img align="right" src="https://github.com/marciosamuel/marciosamuel/blob/main/dev.gif"/>
 
 # Olá visitante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
