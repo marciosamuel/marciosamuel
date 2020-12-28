@@ -11,11 +11,11 @@ Sigo desbravando esse universo de tecnologias e frameworks, absorvendo o que pud
 ## Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/marciosamuel/">
-    <img src="https://img.shields.io/badge/linkedin%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/>
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/>
 </a>
 
 <a href="https://www.instagram.com/marciosamuel_/">
-    <img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/>
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/>
 </a>
 
 ## Linguagens e tecnologias
