@@ -30,5 +30,5 @@ I'm a undergraduate student of System Analysis and Development in [Federal Insti
 
 ***
 
-<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=00C58E&text_color=E9EBFE&bg_color=0D1117&langs_count=10">
-<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=00C58E&text_color=E9EBFE&icon_color=F9DA01&bg_color=0D1117&cache_seconds=25000&count_private=true">
+<img align="left" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=00C58E&text_color=878787&bg_color=0D111700&langs_count=10">
+<img align="right" width="52.5%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=00C58E&text_color=878787&icon_color=F9DA01&bg_color=0D111700&cache_seconds=25000&count_private=true">
