@@ -14,7 +14,7 @@ I'm a undergraduate student of System Analysis and Development in [Federal Insti
 
 <br/>
 
-- 👨🏽‍💻 I'm currently looking for an internship and/or a first job oportunity
+- 👨🏽‍💻 I'm currently looking for an internship and/or a job oportunity
 - 🤝 I'm also open to collaborate on any open source projects
 
 ### Languages and Tools
