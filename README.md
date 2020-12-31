@@ -12,6 +12,8 @@ I'm a undergraduate student of System Analysis and Development in [Federal Insti
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/>
 </a>
 
+<br/>
+
 - 👨🏽‍💻 I'm currently looking for an internship and/or a first job oportunity
 - 🤝 I'm also open to collaborate on any open source projects
 
