@@ -2,7 +2,7 @@
 
 I'm a undergraduate student of System Analysis and Development in [Federal Institute Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
-<img align="right" src="https://github.com/marciosamuel/marciosamuel/blob/main/animation.gif"/>
+<img align="right" height="300px" src="https://media.giphy.com/media/lQfjlsG5oHQDmw5pSY/giphy.gif"/>
 
 <a href="https://www.linkedin.com/in/marciosamuel/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/>
