@@ -1,11 +1,10 @@
-## Hi, I'm Marcio Samuel, a student of Web Development from Brazil
-
-I'm a undergraduate student of System Analysis and Development in [Federal Institute Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
+## Olá, sou o Marcio Samuel, um aspirante a desenvolvedor Web.
+Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
 <img align="right" height="250px" src="https://github.com/marciosamuel/marciosamuel/blob/main/man.gif"/>
 
-- 👨🏽‍💻 I'm currently looking for an internship and/or a job oportunity
-- 🤝 I'm also open to collaborate on any open source projects
+- 👨🏽‍💻 Atualmente estou buscando um estágio ou oportunidade de trabalho.
+- 🤝 Também estou aberto a colaborar com projetos open-source
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/></code>](https://www.linkedin.com/in/marciosamuel/)
 [<code><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/></code>](https://www.instagram.com/marciosamuel_/)
