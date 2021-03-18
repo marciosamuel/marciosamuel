@@ -3,7 +3,7 @@ Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Fed
 
 <img align="right" height="250px" src="https://github.com/marciosamuel/marciosamuel/blob/main/man.gif"/>
 
-- 👨🏽‍💻 Atualmente estou buscando um estágio ou oportunidade de trabalho.
+- 👨🏽‍💻 Atualmente participando da FiVe Academy como estagiário.
 - 🤝 Também estou aberto a colaborar com projetos open-source
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/></code>](https://www.linkedin.com/in/marciosamuel/)
