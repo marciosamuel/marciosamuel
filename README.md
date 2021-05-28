@@ -12,14 +12,14 @@ Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Fed
 
 ### Languages and Tools
 
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img height="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
+<code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
+<code><img width="130px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
+<code><img width="190px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
 
 ***
 
