@@ -1,10 +1,10 @@
 ## Olá, sou o Marcio Samuel, um aspirante a desenvolvedor Web.
 Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
-<img align="right"  width="auto" max-width="50%" src="https://github.com/marciosamuel/marciosamuel/blob/main/man.gif"/>
-
 - 👨🏽‍💻 Atualmente participando da FiVe Academy como estagiário.
 - 🤝 Também estou aberto a colaborar com projetos open-source
+
+<img align="right"  width="400px" src="https://github.com/marciosamuel/marciosamuel/blob/main/man.gif"/>
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin marciosamuel"/></code>](https://www.linkedin.com/in/marciosamuel/)
 [<code><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram marciosamuel_"/></code>](https://www.instagram.com/marciosamuel_/)
