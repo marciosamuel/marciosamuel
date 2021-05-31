@@ -15,9 +15,11 @@ Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Fed
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></code>
+
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
 <code><img width="100px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
+
 <code><img width="130px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
 <code><img width="190px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"></code>
 
