@@ -15,9 +15,9 @@ Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Fed
 
 ### Bibliotecas e Tecnologias
 
-<code><img min-width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-<code><img min-width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
-<code><img min-width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img min-width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 
-[//]: <> (### Github status<img align="left" max-width="300px" min-width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=4388F1&text_color=878787&bg_color=0D111700&langs_count=10"><img align="right" max-width="400px"  min-width="49%" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=4388F1&text_color=878787&icon_color=F9DA01&bg_color=0D111700&cache_seconds=25000&count_private=true">)
+[//]: <> (### Github status <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=4388F1&text_color=878787&bg_color=0D111700&langs_count=10"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=4388F1&text_color=878787&icon_color=F9DA01&bg_color=0D111700&cache_seconds=25000&count_private=true">)
