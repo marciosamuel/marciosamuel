@@ -4,7 +4,8 @@ Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Fed
 ### Sobre
 <img align="right" width="400px" src="https://github.com/marciosamuel/marciosamuel/blob/main/Website%20Design.svg"/>
 
-- 👨🏽‍💻 Atualmente atuo como etagiário de tecnologia na [Vertigo Tecnologia](https://vertigo.com.br/).
+- 👨🏽‍💻 Estagiário de tecnologia na [Vertigo Tecnologia](https://vertigo.com.br/).
+- 🌈 Voluntário de desenvolvimento front-end no [Portal Lacrei](https://www.portallacrei.com.br/)
 - 🤝 Também estou aberto a colaborar com projetos open-source
 
 ### Contato
