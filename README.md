@@ -13,7 +13,6 @@
 
 [<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ir para perfil do linkedin"/></code>](https://www.linkedin.com/in/marciosamuel/)
 [<code><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="contatar via email"/></code>](mailto:marciosamuel12@gmail.com)
-<code><img src="https://img.shields.io/badge/website (under construction)-1FDEA6?style=for-the-badge&logo=firefox&logoColor=white" alt="website under construction"/></code>
 
 ### Tech Stack
 
