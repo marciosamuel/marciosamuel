@@ -34,4 +34,4 @@
 
 ### Github stats
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=1FDEA6&text_color=878787&bg_color=0000&langs_count=6"/>&nbsp;&nbsp;&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=1FDEA6&text_color=878787&bg_color=0000&cache_seconds=25000&count_private=true"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=1FDEA6&text_color=878787&bg_color=0000"/>&nbsp;&nbsp;&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=1FDEA6&text_color=878787&bg_color=0000&cache_seconds=25000&count_private=true"/>
