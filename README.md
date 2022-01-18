@@ -5,8 +5,7 @@
 ### About me
 
 - 🎓 Technologist Degree in System Analysis and Development (95% complete)
-- 👨🏽‍💻 Frontend developer intern at [AppMasters](https://appmasters.io/).
-- 🌈 Frontend developer volunteer at [Portal Lacrei](https://www.portallacrei.com.br/)
+- 👨🏽‍💻 Frontend engineer at [AppMasters](https://appmasters.io/).
 - 🤝 I'm actually open to colaborate with open source projects
 
 ### Connect with me
