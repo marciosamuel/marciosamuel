@@ -47,12 +47,6 @@ I care about clean architecture, performance, and UIs that hold up at scale.
 
 **Tools** &nbsp;—&nbsp; Git · Figma · Postman · VSCode
 
-## GitHub Stats
-
-<p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&hide_border=true&title_color=2A9D8F&text_color=A8A8A8&icon_color=E07A5F&bg_color=0D1117&count_private=true&cache_seconds=25000" alt="GitHub Stats" />
-</p>
-
 ## Connect
 
 <p align="left">
