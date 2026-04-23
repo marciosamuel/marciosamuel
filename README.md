@@ -1,40 +1,104 @@
-<h2 align="center">Hey there! I'm Marcio Samuel<br/>A Front-end web developer</h2>
+<h1 align="left">Marcio Samuel</h1>
 
-<img width="300px" height="auto" align="right" src="developer-illustration.svg" alt="developer person"/>
+<p align="left">
+  <strong>Frontend Engineer</strong> &nbsp;·&nbsp; React &nbsp;·&nbsp; React Native &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript
+</p>
 
-### About me
+<p align="left">
+  Building scalable web and cross-platform applications — from browser to mobile to smart TV.
+</p>
 
-- 🎓 Technologist Degree in System Analysis and Development (95% complete)
-- 👨🏽‍💻 Frontend developer at [AppMasters](https://appmasters.io/).
-- 🤝 I'm actually open to colaborate with open source projects
+<img width="220px" align="right" src="illustration.png" alt="Workspace illustration" />
 
-### Connect with me
+---
 
-[<code><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ir para perfil do linkedin"/></code>](https://www.linkedin.com/in/marciosamuel/)
-[<code><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="contatar via email"/></code>](mailto:marciosamuel12@gmail.com)
+## About
 
-### Tech Stack
+Frontend engineer with **4+ years** shipping production applications across web, mobile, and TV platforms. I work primarily with **React, React Native, and Next.js** — from SSR/SSG architectures and real-time features to cross-platform mobile apps and smart TV experiences.
 
-![Antd](https://img.shields.io/badge/Antd-161B22?style=for-the-badge&logo=antdesign)
-![Figma](https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma)
-![HTML5](https://img.shields.io/badge/html5-161B22?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/Css3-161B22?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-161B22?style=for-the-badge&logo=sass)
-![Tailwind](https://img.shields.io/badge/Tailwind-161B22?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled_Components-161B22?style=for-the-badge&logo=styled-components)
-![Es6](https://img.shields.io/badge/Es6-161B22?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-161B22?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-161B22?style=for-the-badge&logo=redux)
-![Next](https://img.shields.io/badge/Next-161B22?style=for-the-badge&logo=next.js)
-![GraphQl](https://img.shields.io/badge/Graphql-161B22?style=for-the-badge&logo=graphql)
-![Apollo](https://img.shields.io/badge/Apollo-161B22?style=for-the-badge&logo=apollographql)
-![Git](https://img.shields.io/badge/git-161B22?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel)
-![NPM](https://img.shields.io/badge/NPM-161B22?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-161B22?style=for-the-badge&logo=yarn)
+Beyond UI, I'm comfortable handling the full feature stack: **Firebase-backed serverless infrastructure** (Auth, Firestore, Storage, Rules), **authentication systems** (OAuth, TOTP-based 2FA), **PWA with offline-first strategies**, and integrations with third-party APIs like Zoom and Twilio. I own features end-to-end — from Figma to production.
 
-### Github stats
+I care about clean architecture, performance, and UIs that hold up at scale.
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciosamuel&layout=compact&title_color=1FDEA6&text_color=878787&bg_color=0000"/>&nbsp;&nbsp;&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&theme=radical&title_color=1FDEA6&text_color=878787&bg_color=0000&cache_seconds=25000&count_private=true"/>
+- 🏢 &nbsp; Frontend Engineer at **[AppMasters](https://appmasters.io/)** — remote, since Aug 2021
+- 📍 &nbsp; Guanambi, Bahia, Brazil — open to relocation
+- 🎓 &nbsp; Technologist in Systems Analysis & Development — Instituto Federal Baiano, 2024
+- 🌐 &nbsp; Portuguese (native) · English (B2 — upper intermediate)
+
+---
+
+## What I build
+
+**Web** — React and Next.js apps with SSR, SSG, and ISR. App Router, Server Actions, API Routes, Middleware. Multi-tenant SaaS, dashboards, real-time interfaces.
+
+**Mobile** — Cross-platform apps with React Native and Expo. Geolocation, maps, video, offline support, store-ready builds.
+
+**TV** — 10-foot UIs for Android TV, Samsung Tizen, and LG webOS. Shipped to three TV platforms simultaneously.
+
+**Infrastructure** — Firebase as a full backend: Auth, Firestore, Storage, Security Rules, and persistence. Deployments on Vercel. Integrations with Zoom SDK, Twilio (SMS/email), and Google Maps.
+
+---
+
+## Currently
+
+- 🔨 &nbsp; Deepening **Next.js App Router**, **React Native**, and **Firebase** architecture patterns
+- 📘 &nbsp; Studying **Data Structures & Algorithms** in TypeScript — NeetCode / LeetCode
+- 🎯 &nbsp; Open to **Frontend Engineer** opportunities at product-focused companies
+
+---
+
+## Tech Stack
+
+**Core**
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs)](https://skillicons.dev)
+
+`React` &nbsp; `React Native` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `JavaScript (ES2022+)` &nbsp; `Expo`
+
+**Styling & UI**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,css,figma)](https://skillicons.dev)
+
+`Tailwind CSS` &nbsp; `Styled Components` &nbsp; `Mantine` &nbsp; `Ant Design` &nbsp; `shadcn/ui`
+
+**State, Forms & Data**
+
+[![My Skills](https://skillicons.dev/icons?i=graphql,apollo)](https://skillicons.dev)
+
+`Zustand` &nbsp; `React Context` &nbsp; `React Hook Form` &nbsp; `GraphQL` &nbsp; `REST APIs`
+
+**Backend & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,vercel,postman)](https://skillicons.dev)
+
+`Firebase Auth` &nbsp; `Firestore` &nbsp; `Storage` &nbsp; `Security Rules` &nbsp; `Vercel` &nbsp; `Twilio` &nbsp; `Zoom SDK`
+
+**Mobile & TV**
+
+`React Native` &nbsp; `Expo` &nbsp; `Android TV` &nbsp; `Samsung Tizen` &nbsp; `LG webOS`
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&hide_border=true&title_color=2A9D8F&text_color=A8A8A8&icon_color=E07A5F&bg_color=0D1117&count_private=true&cache_seconds=25000" alt="GitHub Stats" />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/marciosamuel/">
+    <img src="https://img.shields.io/badge/LinkedIn-2A9D8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:marciosamuel12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E07A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
