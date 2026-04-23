@@ -10,13 +10,11 @@
 
 <img width="220px" align="right" src="illustration.png" alt="Workspace illustration" />
 
----
-
 ## About
 
 Frontend engineer with **4+ years** shipping production applications across web, mobile, and TV platforms. I work primarily with **React, React Native, and Next.js** — from SSR/SSG architectures and real-time features to cross-platform mobile apps and smart TV experiences.
 
-Beyond UI, I'm comfortable handling the full feature stack: **Firebase-backed serverless infrastructure** (Auth, Firestore, Storage, Rules), **authentication systems** (OAuth, TOTP-based 2FA), **PWA with offline-first strategies**, and integrations with third-party APIs like Zoom and Twilio. I own features end-to-end — from Figma to production.
+Beyond UI, I'm comfortable owning the full feature stack: **Firebase-backed serverless infrastructure** (Auth, Firestore, Storage, Rules), **authentication systems** (OAuth, TOTP-based 2FA), **PWA with offline-first strategies**, and integrations with third-party APIs like Zoom and Twilio. From Figma to production.
 
 I care about clean architecture, performance, and UIs that hold up at scale.
 
@@ -25,71 +23,34 @@ I care about clean architecture, performance, and UIs that hold up at scale.
 - 🎓 &nbsp; Technologist in Systems Analysis & Development — Instituto Federal Baiano, 2024
 - 🌐 &nbsp; Portuguese (native) · English (B2 — upper intermediate)
 
----
-
-## What I build
-
-**Web** — React and Next.js apps with SSR, SSG, and ISR. App Router, Server Actions, API Routes, Middleware. Multi-tenant SaaS, dashboards, real-time interfaces.
-
-**Mobile** — Cross-platform apps with React Native and Expo. Geolocation, maps, video, offline support, store-ready builds.
-
-**TV** — 10-foot UIs for Android TV, Samsung Tizen, and LG webOS. Shipped to three TV platforms simultaneously.
-
-**Infrastructure** — Firebase as a full backend: Auth, Firestore, Storage, Security Rules, and persistence. Deployments on Vercel. Integrations with Zoom SDK, Twilio (SMS/email), and Google Maps.
-
----
-
 ## Currently
 
-- 🔨 &nbsp; Deepening **Next.js App Router**, **React Native**, and **Firebase** architecture patterns
-- 📘 &nbsp; Studying **Data Structures & Algorithms** in TypeScript — NeetCode / LeetCode
+- 🔨 &nbsp; Day-to-day: **React · React Native · Next.js · TypeScript · Firebase · Tailwind CSS**
 - 🎯 &nbsp; Open to **Frontend Engineer** opportunities at product-focused companies
-
----
 
 ## Tech Stack
 
-**Core**
+**Core** &nbsp;—&nbsp; React · React Native · Next.js · TypeScript · JavaScript (ES2022+) · Expo
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs)](https://skillicons.dev)
+**Styling & UI** &nbsp;—&nbsp; Tailwind CSS · Styled Components · Mantine · Ant Design · shadcn/ui · CSS
 
-`React` &nbsp; `React Native` &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `JavaScript (ES2022+)` &nbsp; `Expo`
+**State & Forms** &nbsp;—&nbsp; Zustand · React Context · React Hook Form
 
-**Styling & UI**
+**Data** &nbsp;—&nbsp; GraphQL · Apollo · REST APIs
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,css,figma)](https://skillicons.dev)
+**Backend & Infra** &nbsp;—&nbsp; Firebase (Auth · Firestore · Storage · Rules) · Node.js · Vercel
 
-`Tailwind CSS` &nbsp; `Styled Components` &nbsp; `Mantine` &nbsp; `Ant Design` &nbsp; `shadcn/ui`
+**Integrations** &nbsp;—&nbsp; Twilio · Zoom SDK · Google Maps
 
-**State, Forms & Data**
+**Mobile & TV** &nbsp;—&nbsp; Expo · Android TV · Samsung Tizen · LG webOS
 
-[![My Skills](https://skillicons.dev/icons?i=graphql,apollo)](https://skillicons.dev)
-
-`Zustand` &nbsp; `React Context` &nbsp; `React Hook Form` &nbsp; `GraphQL` &nbsp; `REST APIs`
-
-**Backend & Infrastructure**
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,vercel,postman)](https://skillicons.dev)
-
-`Firebase Auth` &nbsp; `Firestore` &nbsp; `Storage` &nbsp; `Security Rules` &nbsp; `Vercel` &nbsp; `Twilio` &nbsp; `Zoom SDK`
-
-**Mobile & TV**
-
-`React Native` &nbsp; `Expo` &nbsp; `Android TV` &nbsp; `Samsung Tizen` &nbsp; `LG webOS`
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
-
----
+**Tools** &nbsp;—&nbsp; Git · Figma · Postman · VSCode
 
 ## GitHub Stats
 
 <p align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=marciosamuel&show_icons=true&hide_border=true&title_color=2A9D8F&text_color=A8A8A8&icon_color=E07A5F&bg_color=0D1117&count_private=true&cache_seconds=25000" alt="GitHub Stats" />
 </p>
-
----
 
 ## Connect
 
