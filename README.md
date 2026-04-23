@@ -8,13 +8,14 @@
   Building scalable web and cross-platform applications — from browser to mobile to smart TV.
 </p>
 
-<img width="220px" align="right" src="illustration.png" alt="Workspace illustration" />
 
 ## About
 
 Frontend engineer with **4+ years** shipping production applications across web, mobile, and TV platforms. I work primarily with **React, React Native, and Next.js** — from SSR/SSG architectures and real-time features to cross-platform mobile apps and smart TV experiences.
 
 Beyond UI, I'm comfortable owning the full feature stack: **Firebase-backed serverless infrastructure** (Auth, Firestore, Storage, Rules), **authentication systems** (OAuth, TOTP-based 2FA), **PWA with offline-first strategies**, and integrations with third-party APIs like Zoom and Twilio. From Figma to production.
+
+<img width="220px" align="right" src="illustration.png" alt="Workspace illustration" />
 
 I care about clean architecture, performance, and UIs that hold up at scale.
 
