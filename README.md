@@ -5,51 +5,60 @@
 </p>
 
 <p align="left">
-  Building scalable web and cross-platform applications — from browser to mobile to smart TV.
+  Building products for web, mobile and Smart TV, with accessibility and performance in mind.
+</p>
+
+<p align="left">
+  <a href="https://marciosamuel.vercel.app/en"><strong>Portfolio and case studies</strong></a>
 </p>
 
 
 ## About
 
-Frontend engineer with **4+ years** shipping production applications across web, mobile, and TV platforms. I work primarily with **React, React Native, and Next.js** — from SSR/SSG architectures and real-time features to cross-platform mobile apps and smart TV experiences.
+Frontend engineer with **5+ years** shipping production applications across web, mobile and TV platforms. I work mainly with **React, React Native and Next.js**, from SSR/SSG and real-time features to cross-platform mobile apps and Smart TV apps for Samsung Tizen and LG webOS.
 
 <img width="220px" align="right" src="illustration.png" alt="Workspace illustration" />
 
-Beyond UI, I'm comfortable owning the full feature stack: **Firebase-backed serverless infrastructure** (Auth, Firestore, Storage, Rules), **authentication systems** (OAuth, TOTP-based 2FA), **PWA with offline-first strategies**, and integrations with third-party APIs like Zoom and Twilio. From Figma to production.
+I also handle the layers around the UI: **Firebase** (Auth, Firestore, Storage, Rules), **two-factor authentication**, and integrations with services like Zoom and Twilio. I care about clean architecture, accessibility (WCAG), performance, and interfaces that hold up at scale.
 
-I care about clean architecture, performance, and UIs that hold up at scale.
-
-- 🏢 &nbsp; Frontend Engineer at **[AppMasters](https://appmasters.io/)** — remote, since Aug 2021
-- 📍 &nbsp; Guanambi, Bahia, Brazil — open to relocation
-- 🎓 &nbsp; Technologist in Systems Analysis & Development — Instituto Federal Baiano, 2024
-- 🌐 &nbsp; Portuguese (native) · English (B2 — upper intermediate)
+- 🏢 &nbsp; Frontend Engineer at **[AppMasters](https://appmasters.io/)**, remote, since Sep 2021 (intern, then mid-level since Jan 2022)
+- 📍 &nbsp; Guanambi, Bahia, Brazil
+- 🎓 &nbsp; Technologist in Systems Analysis & Development, Instituto Federal Baiano, 2024
+- 🌐 &nbsp; Portuguese (native) · English (B2, upper intermediate)
 
 ## Currently
 
-- 🔨 &nbsp; Day-to-day: **React · React Native · Next.js · TypeScript · Firebase · Tailwind CSS**
-- 🎯 &nbsp; Open to **Frontend Engineer** opportunities at product-focused companies
+- 🔨 &nbsp; Day-to-day: **React · React Native · Next.js · TypeScript · Firebase**
+- 🧩 &nbsp; Recent work: an AI assistant platform for WhatsApp and Instagram, a wine platform on web, mobile and TV, and a finance platform for car dealerships. Details are in the [case studies](https://marciosamuel.vercel.app/en).
+- 💬 &nbsp; Always open to a good conversation about interesting products
 
 ## Tech Stack
 
-**Core** &nbsp;—&nbsp; React · React Native · Next.js · TypeScript · JavaScript (ES2022+) · Expo
+**Core** &nbsp;·&nbsp; React · React Native · Next.js · TypeScript · JavaScript (ES2022+) · Expo
 
-**Styling & UI** &nbsp;—&nbsp; Tailwind CSS · Styled Components · Mantine · Ant Design · shadcn/ui · CSS
+**Styling & UI** &nbsp;·&nbsp; Tailwind CSS · Styled Components · Mantine · Ant Design · shadcn/ui · CSS
 
-**State & Forms** &nbsp;—&nbsp; Zustand · React Context · React Hook Form
+**State & Forms** &nbsp;·&nbsp; Zustand · React Context · React Hook Form
 
-**Data** &nbsp;—&nbsp; GraphQL · Apollo · REST APIs
+**Data** &nbsp;·&nbsp; GraphQL · Apollo · REST APIs
 
-**Backend & Infra** &nbsp;—&nbsp; Firebase (Auth · Firestore · Storage · Rules) · Node.js · Vercel
+**Backend & Infra** &nbsp;·&nbsp; Firebase (Auth · Firestore · Storage · Rules) · Node.js · Vercel
 
-**Integrations** &nbsp;—&nbsp; Twilio · Zoom SDK · Google Maps
+**Integrations** &nbsp;·&nbsp; Twilio · Zoom SDK · Google Maps
 
-**Mobile & TV** &nbsp;—&nbsp; Expo · Android TV · Samsung Tizen · LG webOS
+**Mobile & TV** &nbsp;·&nbsp; Expo · Android TV · Samsung Tizen · LG webOS
 
-**Tools** &nbsp;—&nbsp; Git · Figma · Postman · VSCode
+**Quality** &nbsp;·&nbsp; WCAG · Jest · Testing Library · GitHub Actions · EAS Build
+
+**Tools** &nbsp;·&nbsp; Git · Figma · Postman · VSCode
 
 ## Connect
 
 <p align="left">
+  <a href="https://marciosamuel.vercel.app/en">
+    <img src="https://img.shields.io/badge/Portfolio-236848?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/marciosamuel/">
     <img src="https://img.shields.io/badge/LinkedIn-2A9D8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
