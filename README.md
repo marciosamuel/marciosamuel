@@ -21,7 +21,7 @@ Frontend engineer with **5+ years** shipping production applications across web,
 
 I also handle the layers around the UI: **Firebase** (Auth, Firestore, Storage, Rules), **two-factor authentication**, and integrations with services like Zoom and Twilio. I care about clean architecture, accessibility (WCAG), performance, and interfaces that hold up at scale.
 
-- 🏢 &nbsp; Frontend Engineer at **[AppMasters](https://appmasters.io/)**, remote, since Sep 2021 (intern, then mid-level since Jan 2022)
+- 🏢 &nbsp; Frontend Engineer at **[AppMasters](https://appmasters.io/)**, remote, since Sep 2021 (intern, then junior from Jan 2022, mid-level since Jan 2026)
 - 📍 &nbsp; Guanambi, Bahia, Brazil
 - 🎓 &nbsp; Technologist in Systems Analysis & Development, Instituto Federal Baiano, 2024
 - 🌐 &nbsp; Portuguese (native) · English (B2, upper intermediate)
